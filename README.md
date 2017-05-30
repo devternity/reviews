@@ -8,3 +8,6 @@ This repository contains a set of best practices for reviewing the content
 # dont's 
 * speakers must not read from the transcript
 
+# hints for speakers
+* watch [Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8)
+
