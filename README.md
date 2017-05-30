@@ -9,5 +9,6 @@ This repository contains a set of best practices for reviewing the content
 * speakers must not read from the transcript
 
 # hints for speakers
+* read [Tips for Public Speaking](http://speaking.io)
 * watch [Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8)
 
