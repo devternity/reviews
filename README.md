@@ -9,7 +9,7 @@ This repository contains a set of best practices for reviewing the content.
 * all slides must be relevant to the audience and challenged with the following questions:
 
 1) why you are telling / showing this? 
-2) why is this important to the audience?
+2) why is this important to the audience? (`ok, it's a nice slide and story. So what?`)
 3) is there a better way to convey the same message?
 
 # dont's 
