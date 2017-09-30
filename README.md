@@ -24,4 +24,5 @@ This repository contains a set of best practices for reviewing the content.
 * tell a story to inspire and "touch" the audience
 * read [Tips for Public Speaking](http://speaking.io)
 * read [On Conference Speaking](https://hynek.me/articles/speaking/)
+* read [An Open Letter To Speakers](http://scottberkun.com/2011/an-open-letter-to-speakers/)
 * watch [Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8)
