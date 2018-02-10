@@ -16,6 +16,8 @@ This repository contains a set of best practices for reviewing the content.
 * speakers must never expect audience to read the slides (except schemes, algorithms, where speaker is explaining it step by step)
 * speakers must design minimalistic slides. An ideal slide has a single buzzword or a short sentence. All supporting information should be spoken.
 
+* avoid "true, but useless" ideas, concepts and statements. There are many good ideas out there. We have to preserve only useful ones.
+
 # dont's 
 
 * speakers must not read from the transcript
